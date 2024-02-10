@@ -1,7 +1,2 @@
 #!/bin/bash 
-<<<<<<< HEAD
-
-echo"Hi Tekouin" 
-=======
-echo "Hi Tekouin" 
->>>>>>> Update_branch
+echo "Tekouin is cool!"
