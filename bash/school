@@ -1,7 +1,2 @@
 #!/bin/bash 
-<<<<<<< HEAD
-
 echo"Hi Santander" 
-=======
-echo" Hi Santander" 
->>>>>>> Update_branch
